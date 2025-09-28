@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # bootstrap_rpi5_builder.sh — Create a Dockerized RPi5 image build project
-# Author: Copilot
+# Author: AI Powered
 # Version: 1.0.0
 #
 set -euo pipefail
